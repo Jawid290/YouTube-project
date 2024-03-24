@@ -1,0 +1,120 @@
+body{
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: rgba(208, 215, 221, 0.541);
+
+
+}
+#videoPreview1{
+
+display: grid;
+grid-template-columns: 1fr 1fr 1fr ;
+column-gap: 16px;
+row-gap: 16px;
+
+
+}
+
+
+
+
+
+/* .videoPreview1{
+    display: inline-block;
+     vertical-align: top;
+
+}
+.videoPreview2{
+    display: inline-block;
+    vertical-align: top; 
+}
+    
+    */ 
+
+
+.thumbnail1{
+
+    width: 100%;
+}
+.thumbnail2{
+
+    width: 100%;
+}
+
+#smallPicture1{
+
+width: 50px;
+display: inline-block;
+vertical-align: top;
+margin-top: 15px;
+}
+#smallPicture2{
+     width: 50px;
+    display: inline-block;
+     vertical-align: top;
+     margin-top: 15px;
+        
+}
+#talkingDiv{
+    display: inline-block;
+    width: 250px;
+}
+
+#tryNotToDiv{
+    display: inline-block;
+    width: 250px;
+}
+.channel{
+    border-radius: 50px;
+    width: 50px;
+    display: inline-block;
+
+}
+
+.channel2{
+    border-radius: 50px;
+    width: 50px;
+    display: inline-block;
+    
+
+}
+#talkingTech{
+    width: 250px;
+    vertical-align: top;
+    display: inline-block;
+     
+}
+#tryNotTo{
+    width: 250px;
+    vertical-align: top;
+    display: inline-block;
+     
+}
+#marquesBroenlee{
+display: block;
+color: rgb(109, 103, 103);
+margin-bottom: 5px;
+display:block;
+
+ }
+ #arkiplier{
+    display: block;
+    color: rgb(109, 103, 103);
+    margin-bottom: 5px;
+    display:block;
+    
+     }
+    
+
+ #views1{
+
+    color: rgb(109, 103, 103);
+
+ }
+ #views2{
+    color: rgb(109, 103, 103); ;
+ }
+
+
+
+    

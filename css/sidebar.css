@@ -1,0 +1,44 @@
+#sidebar{
+    display:flex;
+    flex-direction: column;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top:52px;
+    width: 75px;
+    background-color: white;
+    justify-content: space-between;
+    padding-left: 7px;
+}
+
+
+
+#sidebar img {
+    height: 30px;
+    width: 60px;
+}
+
+#subscriptions-text{
+    font-size: 14px;
+}
+#Explore{
+    padding-left: 8px;
+}
+#Home{
+    padding-left:9px;
+    
+}
+
+#home-pic{
+    padding-top: 25px;
+}
+#Youtube-music{
+    padding-left: 8px;
+}
+#Library{
+    padding-left: 8px;
+    padding-bottom: 30px;
+}
+#Library-pic{
+    padding-bottom: 10px;
+}
